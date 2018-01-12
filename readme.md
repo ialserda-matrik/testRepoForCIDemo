@@ -21,4 +21,4 @@ node .
 To View The Site go to:  
 **http://localhost:8080**
 
-Note for the final Chapter I make a chnage to the home.hbs view to show the code going through the entire process. I put that code in a seperate file called home-cat.hbs.
+Note for the final Chapter I make a change to the home.hbs view to show the code going through the entire process. I put that code in a seperate file called home-cat.hbs.
